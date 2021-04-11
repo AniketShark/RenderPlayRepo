@@ -1,0 +1,6 @@
+*.vsconfig
+RenderPlay/.vs/
+RenderPlay/Library/
+RenderPlay/Logs/shadercompiler-AssetImportWorker0.log
+RenderPlay/Logs/
+RenderPlay/obj/
